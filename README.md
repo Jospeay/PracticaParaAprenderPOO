@@ -12,7 +12,7 @@ Este proyecto es ideal para personas que están iniciando en el área de desarro
 
 El propósito de este repositorio es:
 
--Servir como material de práctica para principiantes.
+- Servir como material de práctica para principiantes.
 - Acompañar el aprendizaje obtenido mediante un tutorial de YouTube.
 - Mostrar el desarrollo de un proyecto desde cero.
 - Facilitar la comprensión de la estructura y funcionamiento del código.
